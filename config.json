@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpalidate",
+        "uuid": 11623200,
+        "checksum": "8f5l8b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
